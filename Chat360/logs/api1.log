@@ -1,0 +1,4 @@
+{"level": "error", "log_string": "Other error occurred: Invalid URL 'xddfd.com': No scheme supplied. Perhaps you meant https://xddfd.com?", "timestamp": "2024-05-14T12:06:17.183778Z", "metadata": {"source": "api1.log"}}
+{"level": "error", "log_string": "Other error occurred: Invalid URL 'xddfd.com': No scheme supplied. Perhaps you meant https://xddfd.com?", "timestamp": "2024-05-14T12:08:43.471705Z", "metadata": {"source": "api1.log"}}
+{"level": "error", "log_string": "Other error occurred: Invalid URL 'xddfd.com': No scheme supplied. Perhaps you meant https://xddfd.com?", "timestamp": "2024-05-14T12:10:14.312268Z", "metadata": {"source": "api1.log"}}
+{"level": "error", "log_string": "Other error occurred: Invalid URL 'xddfd.com': No scheme supplied. Perhaps you meant https://xddfd.com?", "timestamp": "2024-05-14T12:31:33.701736Z", "metadata": {"source": "api1.log"}}
